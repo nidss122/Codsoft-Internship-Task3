@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(68.6deg, rgb(252, 165, 241) 1.8%, rgb(181, 255, 255) 100.5%);
+}
+h1{
+    text-align: center;
+    margin-top: 70px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 50px;
+    color: #00204a;
+}
+.container{
+    padding: 30px;
+    display:grid;
+   
+    align-items: center;
+    justify-content: center;
+}
+.button{    
+    width: 60px; 
+    height: 60px; 
+    font-size: 20px;  
+    font-family: 'Noto Sans JP', sans-serif;
+    padding: 15px;
+    margin-left: 2px;
+    margin-right: 2px;
+    border: 4px solid #00204a;
+    border-radius: 8px;
+    cursor:pointer;
+    background-color:#e3f6f5;
+}
+.row{
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.input{
+    width:240px;
+    padding: 10px;
+    margin:5px;
+    font-size: medium;
+    border: 3px solid black;
+    border-radius:4px;
+}
